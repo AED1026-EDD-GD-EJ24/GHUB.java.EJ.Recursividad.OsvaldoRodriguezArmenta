@@ -41,8 +41,12 @@ public class Principal {
           case 4:
              AppSumaDigitos.menu();
              break;
-             
-          
+          case 5:
+              Alfabeto.menu();
+              break;   
+          case 6:
+             MaximoComunDivisor.menu();
+             break;
              
           case 0:
              System.out.println("ADIOS!");
