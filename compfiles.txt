@@ -1,8 +1,11 @@
 ./miPrincipal/Principal.java
 ./miPrincipal/AppLadrillo.java
+./miPrincipal/AppFibRecursividad.java
 ./miPrincipal/Alfabeto.java
 ./miPrincipal/AppSumaDigitos.java
 ./miPrincipal/AppFactorial.java
+./miPrincipal/AppFibonacci.java
 ./miPrincipal/AppNatural.java
+./miPrincipal/Performance.java
 ./miPrincipal/MaximoComunDivisor.java
 ./miTest/AppTest.java
