@@ -4,8 +4,10 @@
 ./miPrincipal/Alfabeto.java
 ./miPrincipal/AppSumaDigitos.java
 ./miPrincipal/AppFactorial.java
+./miPrincipal/AppTorresHanoi.java
 ./miPrincipal/AppFibonacci.java
 ./miPrincipal/AppNatural.java
 ./miPrincipal/Performance.java
 ./miPrincipal/MaximoComunDivisor.java
+./miPrincipal/AppFibRecursividadOptimizado.java
 ./miTest/AppTest.java

@@ -22,7 +22,8 @@ public class Principal {
           System.out.println(" 9) Torres de Hanoi");
           System.out.println("10) Serie de Fibonacci");
           System.out.println("11) Performance Serie de Fibonacci");
-          System.out.println("12) Ordenamiento por Mezcla");
+          System.out.println("12) Fibonacci Optimizado");
+          System.out.println("13) Ordenamiento por Mezcla");
           System.out.println("            ");
           System.out.println("0) SALIR");
           System.out.print("Selecciona opción:");
@@ -47,7 +48,16 @@ public class Principal {
           case 6:
              MaximoComunDivisor.menu();
              break;
-             
+          case 9:
+             AppTorresHanoi.menu();
+             break;
+          case 10:
+             AppFibonacci.menu();
+             break;
+          case 11:
+          AppFibRecursividad.menu();
+          break;
+
           case 0:
              System.out.println("ADIOS!");
              consola.close();
